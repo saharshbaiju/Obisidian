@@ -78,7 +78,7 @@ String welcome message = "hello";
 | Addition       | +       |
 | Increment      | ++      |
 | Subtraction    | -       |
-| Decrement      | --      |
+| Decrement      | -      |
 | Multiplication | *       |
 | Division       | /       |
 
