@@ -1,3 +1,5 @@
+must read doc for complete beginners others can use it just brush up things.
+
 ```
 class hello{
 	public static void main(String[] args){
@@ -27,6 +29,8 @@ Strings must be inside `""` not `''` because `''` stores character but they are 
 - All comples datatypes is derived from the primitve data types and they stand as the core data types
 ### More about strings
 
+^151a8f
+
 strings come with some built in functionalities
 - Number of character in string can be fetched using `String.length()
 
@@ -35,7 +39,19 @@ strings come with some built in functionalities
 - String concatenation using `+`
 
 - Declare now, assign later
-	- for example you can just declare a string variable like `String hello;` and declare hello later as `hello = "hello xyz;`
+	- for example you can just declare a string variable like `String hello;` and declare hello later as `hello = "hello xyz;
+	
+###  Some more important string methods
+
+- `.contains("")`
+	- Returns true or false by checking whether some string is present in the main string or not.
+
+- `.charAt(index)` returns the character at a specified index.
+
+- `.substring(start,end)` gives a part of string.
+		`"java".substring(1,3); //returns "av"`
+
+- `.equals(string to compare)` == may give undesired output for strings
 ### Array
 #### Syntax
 `int[] prices = {10,20,40};`
@@ -60,25 +76,26 @@ type variableName = value;
 - Follow camel case
 - Cannot contain space
 
-Goodnaming convention ->
+Good-naming convention ->
 ```
  String welcomeMessage = "hello";
 ```
 
-Badnaming convention->
+Bad-naming convention->
 ```
 String welcome message = "hello";
 ```
 
 
-### Arithemetic operators
+### Arithmetic operators
 
 | symbol         | purpose |
 | -------------- | ------- |
 | Addition       | +       |
 | Increment      | ++      |
 | Subtraction    | -       |
-| Decrement      | -      |
+| Decrement      | --      |
 | Multiplication | *       |
 | Division       | /       |
 
+[[Intermediate Java|next section java intermediate]]
