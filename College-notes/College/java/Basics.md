@@ -1,6 +1,6 @@
 must read doc for complete beginners others can use it just brush up things.
 
-```
+```java
 class hello{
 	public static void main(String[] args){
 	
@@ -68,7 +68,7 @@ all elements in array should have same type
 # Variable
 Variables are recommended to be named in camel case
 ### Syntax
-```
+```java
 type variableName = value;
 ```
 ### Variable naming rules
@@ -77,12 +77,12 @@ type variableName = value;
 - Cannot contain space
 
 Good-naming convention ->
-```
+```java
  String welcomeMessage = "hello";
 ```
 
 Bad-naming convention->
-```
+```java
 String welcome message = "hello";
 ```
 

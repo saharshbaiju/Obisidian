@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College-notes/College/java/Intermediate Java.md",
+                "file": "College-notes/College/java/Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intermediate Java"
+              "title": "Basics"
             }
           }
         ],
@@ -200,8 +200,8 @@
   },
   "active": "9cd9b5075b873563",
   "lastOpenFiles": [
-    "College-notes/College/java/Basics.md",
     "College-notes/College/java/Intermediate Java.md",
+    "College-notes/College/java/Basics.md",
     "College-notes/College/java/Resources to checkout.md",
     "College-notes/College/java/Pasted image 20260209171202.png"
   ]
